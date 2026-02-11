@@ -14,7 +14,6 @@ LimelightAprilTags/
                 └── example/
                     └── limelight/
                         └── LimelightReader.java
-                        testi
 ```
 
 ## Prerequisites:
@@ -22,7 +21,6 @@ LimelightAprilTags/
 - Java 17 or newer
 
 - Maven 3.x
-- - testing
 
 - Limelight 3G camera on the same network as your computer
 
@@ -30,7 +28,7 @@ LimelightAprilTags/
 
 ## Setup:
 
-1. Clone or copy this project. and test
+1. Clone or copy this project.
 
 2. Make sure your pom.xml has all dependencies for NetworkTables (required for Limelight 3G communication).
 
