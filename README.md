@@ -14,7 +14,7 @@ LimelightAprilTags/
                 └── example/
                     └── limelight/
                         └── LimelightReader.java
-                        testing
+                        testi
 ```
 
 ## Prerequisites:
